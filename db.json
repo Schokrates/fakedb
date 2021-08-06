@@ -1,11 +1,13 @@
-[ {
-    "id": 61,
-    "name": "Schokri",
-    "type": "dulli"
-  },
- {
-   "id":62,
-   "name": "Pia",
-   "type": "dulli"
- }
-]
+{"people":
+    [ {
+        "id": 61,
+        "name": "Schokri",
+        "type": "dulli"
+      },
+     {
+       "id":62,
+       "name": "Pia",
+       "type": "dulli"
+     }
+    ]
+}
