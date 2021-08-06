@@ -1,5 +1,11 @@
-{
-"id": 61,
-"name": "Schokri",
-"type": "dulli"
-}
+[ {
+    "id": 61,
+    "name": "Schokri",
+    "type": "dulli"
+  },
+ {
+   "id":62,
+   "name": "Pia",
+   "type": "dulli"
+ }
+]
